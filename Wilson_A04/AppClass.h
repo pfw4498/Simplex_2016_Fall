@@ -16,9 +16,9 @@ namespace Simplex
 
 class Application
 {
-	MyCamera* m_pCamera = nullptr;
-	MyMeshManager* m_pMyMeshMngr = nullptr;
-	String m_sProgrammer = "Parker Wilson - pfw4498@g.rit.edu";
+	MyCamera* m_pCamera = nullptr; //Camera class
+	MyMeshManager* m_pMyMeshMngr = nullptr; //My Mesh Manager
+	String m_sProgrammer = "Parker Wilson - pfw4498@g.rit.edu"; //Programmer
 private:
 	static ImGuiObject gui; //GUI object
 

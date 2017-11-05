@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicX", "BasicX\BasicX.vcxproj", "{E745E25C-0143-42AC-A486-1395A4C972AE}"
 EndProject
@@ -133,6 +133,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wilson_E055", "Wilson_E05.5\Wilson_E055.vcxproj", "{A562AADF-4DAC-4F3C-8D4E-024A8FF89D1F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wilson_E06", "Wilson_E06\Wilson_E06.vcxproj", "{BF68C8C3-5ED5-4DA4-BA28-5C6B694BC7D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wilson_A04", "Wilson_A04\Wilson_A04.vcxproj", "{C8B75AFE-A4AE-48EC-8AF3-50400BE83746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -314,6 +316,10 @@ Global
 		{BF68C8C3-5ED5-4DA4-BA28-5C6B694BC7D3}.Debug|x86.Build.0 = Debug|Win32
 		{BF68C8C3-5ED5-4DA4-BA28-5C6B694BC7D3}.Release|x86.ActiveCfg = Release|Win32
 		{BF68C8C3-5ED5-4DA4-BA28-5C6B694BC7D3}.Release|x86.Build.0 = Release|Win32
+		{C8B75AFE-A4AE-48EC-8AF3-50400BE83746}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8B75AFE-A4AE-48EC-8AF3-50400BE83746}.Debug|x86.Build.0 = Debug|Win32
+		{C8B75AFE-A4AE-48EC-8AF3-50400BE83746}.Release|x86.ActiveCfg = Release|Win32
+		{C8B75AFE-A4AE-48EC-8AF3-50400BE83746}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -366,6 +372,7 @@ Global
 		{75789CD2-E073-4A4E-BBCF-25EDDD66902D} = {5D1FB011-A2D8-4107-890B-BF1ACD0C0994}
 		{A562AADF-4DAC-4F3C-8D4E-024A8FF89D1F} = {13CD5CAF-2378-4851-9BEB-DF01D5A85C42}
 		{BF68C8C3-5ED5-4DA4-BA28-5C6B694BC7D3} = {13CD5CAF-2378-4851-9BEB-DF01D5A85C42}
+		{C8B75AFE-A4AE-48EC-8AF3-50400BE83746} = {5D1FB011-A2D8-4107-890B-BF1ACD0C0994}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B0E3D9B-F2BD-4EA1-89E3-2083EF468E4F}
